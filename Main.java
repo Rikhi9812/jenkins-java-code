@@ -23,8 +23,8 @@ public class Main {
 
 
 
-       // Student s = new Student();
-        // s.sayHello();
+       Student s = new Student();
+       s.sayHello();
 
     }
 }
